@@ -49,7 +49,7 @@ deltat = 0.001  # time step units are s
 ### CALCULATION LOOP; perform physics updates and drawing
 # ------------------------------------------------------------------------------------
 
-while t < 5 :  # run for one second
+while t < 10 :  # run for ten seconds
  
     # Required to make animation visible / refresh smoothly (keeps program from running faster
     #    than 1000 frames/s)
